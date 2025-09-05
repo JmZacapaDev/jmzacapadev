@@ -1,8 +1,10 @@
-# Hey there, I'm Juan Zacapa 👋  
+<h1 align="center">Hey there, I'm Juan Zacapa 👋</h1>  
 
-Backend Developer from Colombia 🇨🇴, now coding from Mexico 🌮.  
-I like building systems that don’t break (too often) using **Python, Django, and FastAPI**.  
-When I’m not debugging, I’m probably tweaking my Vim config or breaking something in Docker.  
+<p align="center">
+  Backend Developer from Colombia 🇨🇴, now coding from Mexico 🌮 <br>
+  I like building systems that don’t break (too often) using <b>Python, Django, and PostgreSQL</b>. <br>
+  When I’m not debugging, I’m probably tweaking my Vim config or breaking something in Docker.  
+</p>  
 
 ---
 
@@ -18,17 +20,14 @@ When I’m not debugging, I’m probably tweaking my Vim config or breaking some
 ---
 
 ## ⚙️ Tech Stack  
-<p align="left">  
+<p align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>  
@@ -47,10 +46,23 @@ When I’m not debugging, I’m probably tweaking my Vim config or breaking some
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanzacapa/)  
-📧 **jmzacapa.dev@gmail.com**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanzacapa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jmzacapa.dev@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="35" height="35"/>
+  </a>
+</p> 
 
 ---
 
 ## ⚡ Fun Fact  
-I debug faster with coffee ☕, but Vim still finds ways to humble me.  
+<p align="center">
+  I debug faster with coffee ☕, but Vim still finds ways to humble me.  
+</p>  

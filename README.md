@@ -66,3 +66,12 @@
 <p align="center">
   I debug faster with coffee ☕, but Vim still finds ways to humble me.  
 </p>  
+
+<p align="center">
+  <!-- Coffee GIF -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRxbXZjeWh0eHI2MWVicGoyMnBsOTZkb3VjZjY1eXN4Ym1obGprZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" alt="Coffee GIF" width="200" height="200"/>
+  &nbsp;&nbsp;
+  <!-- Cat GIF -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="110" height="110"/>
+</p>
+

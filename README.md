@@ -2,7 +2,7 @@
 
 <p align="center">
   Backend Developer from Colombia 🇨🇴, now coding from Mexico 🌮 <br>
-  I like building systems that don’t break (too often) using <b>Python, Django, and PostgreSQL</b>. <br>
+  I like building systems that don’t break (too often) using <b>Python, Django, FastAPI, and PostgreSQL</b>. <br>
   When I’m not debugging, I’m probably tweaking my Vim config or breaking something in Docker.  
 </p>  
 
